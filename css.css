@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+
+.logo {
+  height: 190px;
+  display: block;
+  margin: 0 auto;;
+}
+
+a:-webkit-any-link {
+  color: pink;
+}
+
+ul {
+  padding-inline-start: 25px;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+  margin: 10px 10px;
+}
+
+.copy {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
